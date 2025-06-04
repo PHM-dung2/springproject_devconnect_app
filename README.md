@@ -30,7 +30,7 @@
 &nbsp;&nbsp; 📋 [[ 프로젝트 PPT ]](https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br/> <br/>
 
-&nbsp;&nbsp; 📲 [[ 앱 프로젝트 (GitHub) ]](https://github.com/PHM-dung2/springproject_devconnect_app)
+&nbsp;&nbsp; 📲 [[ 웹 프로젝트 (GitHub) ]](https://github.com/PHM-dung2/springproject_devconnect_web)
 
  
 <br/>
