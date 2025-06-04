@@ -10,13 +10,14 @@
 
 1. [프로젝트 시연 및 자료](#%EF%B8%8F-프로젝트-시연-및-자료)
 2. [프로젝트 소개](#-프로젝트-소개)
-3. [개발기간](#-개발기간)
-4. [개발자 소개](#%EF%B8%8F-개발자-소개)
-5. [서비스 아키텍처](#%EF%B8%8F-서비스-아키텍처)
-6. [주요 기능](#-주요-기능)
-7. [개발 환경](#-개발-환경)
-8. [기술 스택](#-기술-스택)
-9. [API 및 라이브러리](#%EF%B8%8F-api-및-라이브러리)
+3. [프로젝트 구성](#-프로젝트-구성)
+4. [개발기간](#-개발기간)
+5. [개발자 소개](#%EF%B8%8F-개발자-소개)
+6. [서비스 아키텍처](#%EF%B8%8F-서비스-아키텍처)
+7. [주요 기능](#-주요-기능)
+8. [개발 환경](#-개발-환경)
+9. [기술 스택](#-기술-스택)
+10. [API 및 라이브러리](#%EF%B8%8F-api-및-라이브러리)
 <br/>
 
 
@@ -30,7 +31,7 @@
 &nbsp;&nbsp; 📋 [[ 프로젝트 PPT ]](https://www.canva.com/design/DAGm7UhNL1Q/J-85BA3XQeJ8cKC9Ggf1mw/edit?utm_content=DAGm7UhNL1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br/> <br/>
 
-&nbsp;&nbsp; 📲 [[ 웹 프로젝트 (GitHub) ]](https://github.com/PHM-dung2/springproject_devconnect_web)
+&nbsp;&nbsp; 📲 [[ 백엔드 (GitHub) ]](https://github.com/PHM-dung2/springproject_devconnect_web)
 
  
 <br/>
@@ -56,6 +57,22 @@
  <br/> <br/>
  보다 효율적이고 신뢰도 높은 매칭이 가능하도록 설계되었습니다.
  
+<br/>
+<div align="right">
+  
+  <a href="#목차"> 목차로 </a>
+  
+</div>
+
+## 📦 프로젝트 구성
+
+이 프로젝트는 백엔드(Spring Boot 기반 API 서버)와 프론트엔드(Flutter 기반 모바일 앱)로 구성되어 있습니다.
+
+- 🔧 **백엔드 [(GitHub)](https://github.com/PHM-dung2/springproject_devconnect_web)**: 사용자 인증, 데이터 저장, 비즈니스 로직 처리 등을 담당
+<br/><br/>
+- 📱 **모바일 앱 [(GitHub)](https://github.com/PHM-dung2/springproject_devconnect_app)**: 사용자 인터페이스, 기능 구현, 백엔드 API와의 통신을 담당
+<br/><br/>
+
 <br/>
 <div align="right">
   
