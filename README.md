@@ -219,6 +219,7 @@
 - **server** : 
 <img src="https://img.shields.io/badge/Apache%20Tomcat-10.1-FFF3C2?style=for-the-badge&logo=apachetomcat&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />&nbsp;
+<img src="https://img.shields.io/badge/AWS%20S3-569A31.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3" />&nbsp;
 
 - **기획서 작성, 일정관리** : <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" /> 
 
